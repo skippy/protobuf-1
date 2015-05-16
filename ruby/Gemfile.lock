@@ -6,16 +6,15 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    power_assert (0.2.2)
+    power_assert (0.2.3)
     rake (10.4.2)
     rake-compiler (0.9.5)
       rake
     rubygems-tasks (0.2.4)
-    test-unit (3.0.9)
+    test-unit (3.1.2)
       power_assert
 
 PLATFORMS
-  java
   ruby
 
 DEPENDENCIES
@@ -23,3 +22,6 @@ DEPENDENCIES
   rake-compiler
   rubygems-tasks
   test-unit
+
+BUNDLED WITH
+   1.10.3
